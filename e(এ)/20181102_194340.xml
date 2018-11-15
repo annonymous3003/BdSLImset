@@ -1,0 +1,26 @@
+<annotation>
+	<folder>e unlabeled</folder>
+	<filename>20181102_194340.jpg</filename>
+	<path>C:\Users\User\Downloads\sachie\e unlabeled\20181102_194340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>39</ymin>
+			<xmax>526</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New A</folder>
+	<filename>IMG_20181103_142617_1.jpg</filename>
+	<path>C:\Users\User\Downloads\versity\New A\IMG_20181103_142617_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1222</width>
+		<height>659</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>269</ymin>
+			<xmax>793</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

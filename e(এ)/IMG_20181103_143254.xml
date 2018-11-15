@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New E</folder>
+	<filename>IMG_20181103_143254.jpg</filename>
+	<path>C:\Users\User\Downloads\versity\New E\IMG_20181103_143254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1149</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymin>26</ymin>
+			<xmax>882</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
